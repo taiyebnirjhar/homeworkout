@@ -1,0 +1,38 @@
+[
+  {
+    "image": "../../src/assets/Treadmill.png",
+    "name": "Treadmill",
+    "time": "58:24",
+    "calories": "250 est calories "
+  },
+  {
+    "image": "../../src/assets/Stretching.png",
+    "name": "Stretching",
+    "time": "58:24",
+    "calories": "250 est calories "
+  },
+  {
+    "image": "../../src/assets/Yoga.png",
+    "name": "Yoga",
+    "time": "58:24",
+    "calories": "250 est calories "
+  },
+  {
+    "image": "../../src/assets/Running.png",
+    "name": "Running",
+    "time": "58:24",
+    "calories": "250 est calories "
+  },
+  {
+    "image": "../../src/assets/Lifting.png",
+    "name": "Lifting",
+    "time": "58:24",
+    "calories": "250 est calories "
+  },
+  {
+    "image": "../../src/assets/Pushups.png",
+    "name": "PushUp",
+    "time": "58:24",
+    "calories": "250 est calories "
+  }
+]

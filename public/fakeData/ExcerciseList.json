@@ -1,0 +1,27 @@
+[
+  {
+    "index": "01",
+    "name": "Workout at Home",
+    "videos": "15"
+  },
+  {
+    "index": "02",
+    "name": "Stay Strong and Fit",
+    "videos": "48"
+  },
+  {
+    "index": "03",
+    "name": "High Intensity",
+    "videos": "25"
+  },
+  {
+    "index": "04",
+    "name": "Simple Workout",
+    "videos": "35"
+  },
+  {
+    "index": "05",
+    "name": "Burn Calories",
+    "videos": "18"
+  }
+]
